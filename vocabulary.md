@@ -107,3 +107,8 @@
 |---|---|---|
 | Contains Duplicate | duplicate | 重复项 |
 | Contains Duplicate | neighbours | 相邻的元素（英式拼写） |
+| Valid Anagram | anagram | 字母异位词（字母一样、顺序不同） |
+| Valid Anagram | character | 字符、字母 |
+| Valid Anagram | frequency | 出现次数、频率 |
+| Valid Anagram | lowercase letters | 小写字母 |
+| Valid Anagram | regardless of order | 不管顺序 |
