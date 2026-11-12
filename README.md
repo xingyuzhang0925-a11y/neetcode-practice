@@ -4,9 +4,9 @@ My notes for the [NeetCode Blind 75](https://neetcode.io/practice) list, in Pyth
 我的 NeetCode 刷题笔记，用 Python 写，为在英国的技术面试做准备。
 
 - 📋 **总表 / Progress tracker**：见下方
-- 📝 **每题一页 / One file per problem**：按类型放在文件夹里，例如 `01_arrays_hashing/`
+- 📝 **每题两个文件 / Two files per problem**：`.md` 是笔记（点开有排版），`.py` 是代码（可以运行测试），按类型放在文件夹里，例如 `01_arrays_hashing/`
 - 🔤 **英文词汇 / Interview vocabulary**：[`vocabulary.md`](vocabulary.md)
-- 🧩 **空白模板 / Blank template**：[`TEMPLATE.py`](TEMPLATE.py)
+- 🧩 **空白模板 / Blank template**：[`TEMPLATE.md`](TEMPLATE.md)
 
 ---
 
@@ -22,7 +22,7 @@ My notes for the [NeetCode Blind 75](https://neetcode.io/practice) list, in Pyth
 
 | # | 题目 Problem | 类型 Pattern | 难度 | 第一次做 | 怎么做出来的 | 复习 1 天 | 复习 3 天 | 复习 7 天 | 掌握 |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [Contains Duplicate](01_arrays_hashing/contains_duplicate.py) | Arrays & Hashing | Easy | 2026-10-29 | 看了讲解 | 11/13 ☐ | 11/15 ☐ | 11/19 ☐ | 😐 |
+| 1 | [Contains Duplicate](01_arrays_hashing/contains_duplicate.md) | Arrays & Hashing | Easy | 2026-10-29 | 看了讲解 | 11/13 ☐ | 11/15 ☐ | 11/19 ☐ | 😐 |
 
 > 复习完把 ☐ 改成 ✅。
 

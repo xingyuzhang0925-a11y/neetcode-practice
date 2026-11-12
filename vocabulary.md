@@ -8,14 +8,14 @@
 
 | 英文 | 中文 | 怎么读 / 例句 |
 |---|---|---|
-| time complexity | 时间复杂度 | |
-| space complexity | 空间复杂度 | |
-| Big O | 大 O 表示法 | |
+| time complexity | 时间复杂度 | *What's the time complexity of this solution?* |
+| space complexity | 空间复杂度 | *The space complexity is O(n).* |
+| Big O | 大 O 表示法 | "big oh" · *In Big O terms, this is linear.* |
 | O(1) | 常数级 | "O of one" · *constant time / constant space* |
 | O(n) | 线性 | "O of n" · *linear time* |
 | O(n²) | 平方级 | "O of n squared" · *quadratic time* |
 | O(log n) | 对数级 | "O of log n" · *logarithmic time* |
-| O(n log n) | | "O of n log n" |
+| O(n log n) | 线性对数级（排序常见） | "O of n log n" · *Sorting takes O(n log n) time.* |
 | extra space | 额外空间 | *It uses O(n) extra space.* |
 | worst case / best case | 最坏 / 最好情况 | *In the worst case, we check every element.* |
 | scale | 扩展、变大时的表现 | *This doesn't scale well for large inputs.* |
@@ -30,13 +30,13 @@
 | string | 字符串 | `""` |
 | stack | 栈（后进先出） | `list` + `append` / `pop` |
 | queue | 队列（先进先出） | `collections.deque` |
-| linked list | 链表 | |
-| tree / binary tree | 树 / 二叉树 | |
+| linked list | 链表 | `ListNode` |
+| tree / binary tree | 树 / 二叉树 | `TreeNode` |
 | heap / priority queue | 堆 / 优先队列 | `heapq` |
-| graph | 图 | |
+| graph | 图 | 常用 `dict` 存邻接表 |
 | element | 元素 | *each element in the array* |
-| index / indices | 下标（单数 / 复数） | |
-| key / value | 键 / 值 | |
+| index / indices | 下标（单数 / 复数） | *the element at index i* |
+| key / value | 键 / 值 | *the number as the key, its count as the value* |
 
 ## 3. 动作 Actions（描述代码在做什么）
 
@@ -51,9 +51,9 @@
 | compare | 比较 | *compare every pair* |
 | sort | 排序 | *sort the array first* |
 | keep track of | 记录、跟踪 | *keep track of the numbers I've seen* |
-| update | 更新 | |
-| increment / decrement | 加一 / 减一 | |
-| swap | 交换 | |
+| update | 更新 | *update the count* |
+| increment / decrement | 加一 / 减一 | *increment the counter* |
+| swap | 交换 | *swap the two elements* |
 | in-place | 原地（不新建空间） | *sort the array in-place* |
 
 ## 4. 解题方法 Approaches
