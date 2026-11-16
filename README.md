@@ -22,7 +22,7 @@ My notes for the [NeetCode Blind 75](https://neetcode.io/practice) list, in Pyth
 
 | # | 题目 Problem | 类型 Pattern | 难度 | 第一次做 | 怎么做出来的 | 复习 1 天 | 复习 3 天 | 复习 7 天 | 掌握 |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [Contains Duplicate](01_arrays_hashing/contains_duplicate.md) | Arrays & Hashing | Easy | 2026-10-29 | 看了讲解 | 11/13 ☐ | 11/15 ☐ | 11/19 ☐ | 😐 |
+| 1 | [Contains Duplicate](01_arrays_hashing/contains_duplicate.md) | Arrays & Hashing | Easy | 2026-10-29 | 看了讲解 | 11/16 ✅ | 11/19 ☐ | 11/23 ☐ | 🙂 |
 | 2 | [Valid Anagram](01_arrays_hashing/valid_anagram.md) | Arrays & Hashing | Easy | 2026-11-12 | 看了讲解 | 11/13 ☐ | 11/15 ☐ | 11/19 ☐ | 😐 |
 
 > 复习完把 ☐ 改成 ✅。
