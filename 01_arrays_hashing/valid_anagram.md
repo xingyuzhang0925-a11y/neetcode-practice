@@ -24,6 +24,14 @@
 
 先检查长度：长度不一样，肯定不是，直接返回 `False`。
 
+## 每种写法一句话 / Each approach in one sentence
+
+| 写法 | 中文 | English |
+|---|---|---|
+| 排序 | 先判断长度，再把两个字符串排序，排完一模一样就返回 True | *First check if the lengths are the same. Then sort both strings. If they're exactly the same after sorting, return true.* |
+| 哈希表 ✅ | 先判断长度，建两个哈希表，遍历两个字符串，记下每个字母出现几次，两个表相等就返回 True | *First check the lengths. Then create two hash maps and loop through both strings to count how many times each letter appears. If the two maps are equal, return true.* |
+| 26 格数组 | 先判断长度，建一个 26 格的数组，s 的字母加一，t 的字母减一，最后全是 0 就返回 True | *First check the lengths. Then create an array of 26 zeros. For each letter in s, add one; for each letter in t, subtract one. If every count is zero at the end, return true.* |
+
 ---
 
 ## 三种写法 / Three approaches

@@ -112,3 +112,6 @@
 | Valid Anagram | frequency | 出现次数、频率 |
 | Valid Anagram | lowercase letters | 小写字母 |
 | Valid Anagram | regardless of order | 不管顺序 |
+| Contains Duplicate | nested loops | 嵌套循环（一个循环套另一个） |
+| Valid Anagram | count（动词） | 数、计数 |
+| Valid Anagram | subtract | 减去 |

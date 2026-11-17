@@ -21,6 +21,14 @@
 
 *Use a set to remember numbers I have already seen.*
 
+## 每种写法一句话 / Each approach in one sentence
+
+| 写法 | 中文 | English |
+|---|---|---|
+| 暴力 | 用两层循环，把每一对数都比一遍，有一样的就返回 True，全比完没有就返回 False | *Use two nested loops to compare every pair of numbers. If two are equal, return true; if none are, return false.* |
+| 排序 | 先排序，再遍历，把每个数和它旁边的数比较 | *Sort the array first, then loop through it and compare each number with the one next to it.* |
+| 哈希集合 ✅ | 建一个空 set，每个数检查在不在 set 里，在就返回 True，不在就加进去，循环走完返回 False | *Create an empty set. For each number, check if it's already in the set. If it is, return true. If not, add it to the set. If the loop finishes, return false.* |
+
 ---
 
 ## 四种写法 / Four approaches
