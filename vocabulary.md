@@ -115,3 +115,8 @@
 | Contains Duplicate | nested loops | 嵌套循环（一个循环套另一个） |
 | Valid Anagram | count（动词） | 数、计数 |
 | Valid Anagram | subtract | 减去 |
+| Two Sum | target | 目标值 |
+| Two Sum | difference / complement | 差值（还差的那个数） |
+| Two Sum | add up to | 加起来等于 |
+| Two Sum | pair | 一对 |
+| Two Sum | one pass | 只遍历一遍 |
