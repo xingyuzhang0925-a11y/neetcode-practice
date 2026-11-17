@@ -120,3 +120,5 @@
 | Two Sum | add up to | 加起来等于 |
 | Two Sum | pair | 一对 |
 | Two Sum | one pass | 只遍历一遍 |
+| Two Sum | two pointers | 双指针 |
+| Two Sum | pointer | 指针 |
