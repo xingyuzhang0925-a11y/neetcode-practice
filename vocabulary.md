@@ -22,6 +22,8 @@
 
 ## 2. 数据结构 Data structures
 
+> 列表 / 字典 / 集合的区别详见 [`data_structures.md`](data_structures.md)
+
 | 英文 | 中文 | Python |
 |---|---|---|
 | array / list | 数组 / 列表 | `[]` |

@@ -6,6 +6,7 @@ My notes for the [NeetCode Blind 75](https://neetcode.io/practice) list, in Pyth
 - 📋 **总表 / Progress tracker**：见下方
 - 📝 **每题两个文件 / Two files per problem**：`.md` 是笔记（点开有排版），`.py` 是代码（可以运行测试），按类型放在文件夹里，例如 `01_arrays_hashing/`
 - 🔤 **英文词汇 / Interview vocabulary**：[`vocabulary.md`](vocabulary.md)
+- 📚 **基础概念 / Basics**：[`data_structures.md`](data_structures.md)：列表、字典、集合有什么区别
 - 🧩 **空白模板 / Blank template**：[`TEMPLATE.md`](TEMPLATE.md)
 
 ---
